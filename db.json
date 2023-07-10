@@ -1,0 +1,150 @@
+{
+    
+  "quiz": [ 
+    {
+        "id":1,
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "general-knowledge",
+        "level": "easy",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":2,
+        "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+        "category": "general-knowledge",
+        "level": "easy",
+        "correct_answer":"True",
+        "incorrect_answers": "False"
+
+    },
+    {
+        "id":3,
+        "question": "Sachin is a god of cricket",
+        "category": "sports",
+        "level": "easy",
+        "correct_answer":"True",
+        "incorrect_answers": "False"
+    },
+    {
+        "id":4,
+        "question": "Currently RCB won IPL",
+        "category": "sports",
+        "level": "easy",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":5,
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "geography",
+        "level": "easy",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":6,
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "geography",
+        "level": "easy",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":7,
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "general-knowledge",
+        "level": "medium",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":8,
+        "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+        "category": "general-knowledge",
+        "level": "medium",
+        "correct_answer":"True",
+        "incorrect_answers": "False"
+    },
+    {
+        "id":9,
+        "question": "Sachin is a god of cricket",
+        "category": "sports",
+        "level": "medium",
+        "correct_answer":"True",
+        "incorrect_answers": "False"
+    },
+    {
+        "id":10,
+        "question": "Currently RCB won IPL",
+        "category": "sports",
+        "level": "medium",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":11,
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "geography",
+        "level": "medium",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":12,
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "geography",
+        "level": "medium",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },  {
+        "id":13,
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "general-knowledge",
+        "level": "hard",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":14,
+        "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+        "category": "general-knowledge",
+        "level": "hard",
+        "correct_answer":"True",
+        "incorrect_answers": "False"
+    },
+    {
+        "id":15,
+        "question": "Sachin is a god of cricket",
+        "category": "sports",
+        "level": "hard",
+        "correct_answer":"True",
+        "incorrect_answers": "False"
+    },
+    {
+        "id":16,
+        "question": "Currently RCB won IPL",
+        "category": "sports",
+        "level": "hard",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":17,
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "geography",
+        "level": "hard",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    },
+    {
+        "id":18,
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "geography",
+        "level": "hard",
+        "correct_answer":"False",
+        "incorrect_answers": "True"
+    }
+
+   ]
+}
